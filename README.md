@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**HarderThenHarder/HarderThenHarder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub stats](https://github-readme-stats-chi-virid.vercel.app/api?username=HarderThenHarder&hide=contribs,prs&show_icons=true&theme=merko)](https://github.com/HarderThenHarder/transformers_tasks)
 
-Here are some ideas to get you started:
+🌏 愿望是世界和平
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 博客主页在[[这里](https://www.zhihu.com/column/c_1451236880973426688)]
+
+👯 希望认识上进而好学的伙伴
+
+🌱 目前从事自然语言处理（NLP）相关工作
+
+</div>
